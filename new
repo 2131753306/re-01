@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+     <div style="
+     background-color: #f1f1f1;
+     text-align:center;
+     padding:40px;
+     ">  
+       <img src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201809%2F29%2F20180929003247_ellpi.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1703085761&t=c6cb02dfc2b47caa658e4be0c9ed7fef' alt="续宸瑞" width="80px" hight="80px" >
+     </div>
+     <div style="
+     max-width : 700px;
+     margin:30px auto;
+     padding: 15px;
+     line-height:2.9;
+     
+
+     ">
+      <a>哈哈，新网站</a>
+     </div>
+    <div style="
+     background-color: #f1f1f1;
+     text-align:center;
+     padding:40px;
+     font-size:12px;
+     ">  
+     <p>续宸瑞的网站</p>
+     <a href='https://www.csdn.net/'>友情链接 </a>
+ 
+     </div>
+  </body>
+</html>
